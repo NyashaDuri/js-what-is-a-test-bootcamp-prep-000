@@ -58,8 +58,8 @@ There is a lot here. Right now, you really just need to focus on a few different
 
 ```javascript
   describe('Name', () => {
-    it('returns "Susan"', () => {
-      expect(index.name).toEqual('Susan')
+    it('returns "Nyasha"', () => {
+      expect(index.name).toEqual('Nyasha')
     })
   })
 ```
